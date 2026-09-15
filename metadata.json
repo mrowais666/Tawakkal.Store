@@ -1,0 +1,11 @@
+{
+  "name": "Tawakkal Paint, Electronic & Senetry Store",
+  "description": "Online store for electrical wiring, hardware accessories, premium paints, and sanitary fittings with real-time order tracking and AI expert consultation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
